@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-25T13:39:25+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-25T20:18:19+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -107,47 +107,47 @@
         PARTICIPANT="@tgk1968f" TIER_ID="transl@tgk1968f">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a1">
-                <ANNOTATION_VALUE>so // poems must always be amiss / look those happy slips of the tongue / are exactly this... this link / to these poems amiss //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>So. Poems must always be amiss. Look, those happy slips of the tongue are exactly this... this link to these poems amiss.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a3">
-                <ANNOTATION_VALUE>and what is the interest of the slip of the tongue //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And what is the interest of the slip of the tongue?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a4">
-                <ANNOTATION_VALUE>the sli.. slip of the tongue / it is / something / that / well sort of / being seemingly a mistake / formally / reveals the truth //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>The sli.. slip of the tongue, it is something that, well, sort of, being seemingly a mistake, formally, reveals the truth.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a6">
-                <ANNOTATION_VALUE>right so that is / when we / didn't see something / by the default of our perception / and then suddenly / this mistake revealed to us something we didn't know before /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>So, in other words, that is when we didn't see something by the default of our perception and then suddenly this mistake revealed to us something we didn't know before,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a7">
-                <ANNOTATION_VALUE>in other words made the unknown visible //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>in other words, made the unknown visible.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a9">
-                <ANNOTATION_VALUE>right? / so the slip of the tongue is interesting exactly for this // listen I read another Gandlevsky's essay yesterday / in which he aptly says that / he talks about style there / and says that / uh artist's business is not de... uh is not to show the visible by their depiction / but to reveal the visible //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Right? So, the slip of the tongue is interesting exactly for this. Listen, I read another Gandlevsky's essay yesterday, in which he aptly says that, he talks about style there, and says that uh artist's business is not de... uh is not to show the visible by their depiction, but to reveal the visible.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a11">
-                <ANNOTATION_VALUE>right? / so not to show / but to reveal //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Right? So, not to show but to reveal.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a13">
-                <ANNOTATION_VALUE>a slip of the tongue is also a sort of a way of revealing in a certain sense //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A slip of the tongue is also a sort of a way of revealing, in a certain sense.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a15">
-                <ANNOTATION_VALUE>they mentioned that and accidentally told the real truth / hit the nail on the head //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>They mentioned that and accidentally told the real truth, hit the nail on the head.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
